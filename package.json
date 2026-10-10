@@ -1,6 +1,6 @@
 {
   "name": "@deepseek-ai/dsh-git-panel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Source control panel for the DeepSeek Harness Web/Desktop client: the right Sidebar's Git tab plus the read-only git Remote it reads.",
   "license": "MIT",
   "type": "module",
